@@ -64,7 +64,7 @@ This feature blends the passthrough view with interaction-based control, letting
    - Wit.ai App credentials  
 3. Open the project in Unity (tested with Unity 2022.3+).  
 4. Load the relevant scenes:  
-   - `MapsScene`  
+   - `Navigation`  
    - `LiveTranslation`  
    - `CameraCapture`  
 5. Build & Run on **Meta Quest 3**.   
